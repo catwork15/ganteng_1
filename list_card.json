@@ -6,7 +6,7 @@
         {
             "id"    :"0",
             "name"  : "JoJo Siwa - Great Music",
-            "image" : "https://raw.githubusercontent.com/novaariyanto/images/master/photo/bop.jpg",
+            "image" : "https://raw.githubusercontent.com/novaariyanto/images/master/photo/template-jojo1.jpg",
             "type"  : "list",
             "url"   : "https://raw.githubusercontent.com/novaariyanto/images/master/video/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp4"
           },
@@ -14,7 +14,7 @@
         {   
             "id"    :"1",
             "name"  : "JoJo Siwa - Video",
-            "image" : "https://raw.githubusercontent.com/novaariyanto/images/master/photo/making_dream.jpg",
+            "image" : "https://raw.githubusercontent.com/novaariyanto/images/master/photo/template-jojo2.jpg",
             "type"  : "video",
             "url"   : "https://raw.githubusercontent.com/novaariyanto/images/master/video/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp4"
         },
@@ -22,7 +22,7 @@
 		{   
             "id"    :"3",
             "name"  : "JoJo Siwa - Youtube",
-            "image" : "https://raw.githubusercontent.com/novaariyanto/images/master/photo/menu3.jpg",
+            "image" : "https://raw.githubusercontent.com/novaariyanto/images/master/photo/template-jojo3.jpg",
             "type"  : "video",
             "url"   : "https://raw.githubusercontent.com/novaariyanto/images/master/video/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp4"
         }
