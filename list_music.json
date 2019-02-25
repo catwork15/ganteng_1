@@ -1,0 +1,33 @@
+{
+    "response": 200,
+    "status": "ok",
+    "title": "Music",
+    "data": [
+        {
+            "id": 0,
+            "judul": "JoJo Siwa - HIGH TOP SHOES (Official Video)",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/novaariyanto/images/master/music/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp3"
+        },{
+            "id": 0,
+            "judul": "JoJo Siwa - HIGH TOP SHOES (Official Video)",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/novaariyanto/images/master/music/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp3"
+        },   {
+            "id": 0,
+            "judul": "JoJo Siwa - HIGH TOP SHOES (Official Video)",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/novaariyanto/images/master/music/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp3"
+        },   {
+            "id": 0,
+            "judul": "JoJo Siwa - HIGH TOP SHOES (Official Video)",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/novaariyanto/images/master/music/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp3"
+        },   {
+            "id": 0,
+            "judul": "JoJo Siwa - HIGH TOP SHOES (Official Video)",
+            "deskripsi": "test sing",
+            "url": "https://raw.githubusercontent.com/novaariyanto/images/master/music/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp3"
+        }
+    ]
+}

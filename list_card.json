@@ -1,0 +1,23 @@
+{
+    "response": 200,
+    "status": "ok",
+    "title": "Card",
+    "data": [
+        {
+            "id"    :"0",
+            "name"  : "JoJo Siwa - The Making of D.R.E.A.M. (The Music Video)",
+            "image" : "https://raw.githubusercontent.com/novaariyanto/images/master/photo/bop.jpg",
+            "type"  : "list",
+            "url"   : "https://raw.githubusercontent.com/novaariyanto/images/master/video/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp4"
+          },
+        
+        {   
+            "id"    :"1",
+            "name"  : "JoJo Siwa - The Making of D.R.E.A.M. (The Music Video)",
+            "image" : "https://raw.githubusercontent.com/novaariyanto/images/master/photo/making_dream.jpg",
+            "type"  : "video",
+            "url"   : "https://raw.githubusercontent.com/novaariyanto/images/master/video/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp4"
+        }
+        
+    ]
+}
