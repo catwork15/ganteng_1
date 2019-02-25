@@ -5,26 +5,39 @@
     "data": [
         {
             "id"    :"0",
-            "name"  : "JoJo Siwa - Great Music",
+            "name"  : "JoJo Siwa - All Great Music",
             "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo1.jpg",
             "type"  : "list",
-            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp4"
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/1.mp4"
           },
         
         {   
             "id"    :"1",
-            "name"  : "JoJo Siwa - Video",
+            "name"  : "JoJo Siwa - Boomerang (Video)",
             "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo2.jpg",
             "type"  : "video",
-            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp4"
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/1.mp4"
         },
-		
 		{   
-            "id"    :"3",
-            "name"  : "JoJo Siwa - Youtube",
+            "id"    :"2",
+            "name"  : "JoJo Siwa - Only Getting Better (Video)",
             "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo3.jpg",
             "type"  : "video",
-            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/JoJo%20Siwa%20-%20HIGH%20TOP%20SHOES%20(Official%20Video).mp4"
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/2.mp4"
+        },
+		{   
+            "id"    :"3",
+            "name"  : "JoJo Siwa - Everyday Popstars (Video)",
+            "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo4.jpg",
+            "type"  : "video",
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/3.mp4"
+        },
+		{   
+            "id"    :"4",
+            "name"  : "JoJo Siwa - Kid in a Candy Store (Video)",
+            "image" : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/photo/template-jojo5.jpg",
+            "type"  : "video",
+            "url"   : "https://raw.githubusercontent.com/catwork15/ganteng_1/master/video/4.mp4"
         }
         
     ]
